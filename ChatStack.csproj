@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <PublishTrimmed>true</PublishTrimmed>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Storage.Standard" />
+    <Reference Include="Realtime" />
+    <Reference Include="LC.Google.Protobuf" />
+    <Reference Include="Storage" />
+    <Reference Include="Common" />
+    <Reference Include="LC.Newtonsoft.Json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Docopt.net" Version="0.6.1.11" />
+  </ItemGroup>
+
+</Project>
