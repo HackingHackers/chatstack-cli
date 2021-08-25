@@ -4,9 +4,10 @@
 [![License](https://img.shields.io/github/license/HackingHackers/chatstack-cli)](https://github.com/HackingHackers/chatstack-cli/blob/main/LICENSE)
 [![Release](https://img.shields.io/github/v/release/HackingHackers/chatstack-cli)](https://github.com/HackingHackers/chatstack-cli/releases/latest)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/HackingHackers/chatstack-cli)
+[![Stars](https://img.shields.io/github/stars/HackingHackers/chatstack-cli?style=social)](https://github.com/HackingHackers/chatstack-cli/stargazers)
 
 ## Download
 
 
 
-#### Star me at [HackingHackers/chatstack-cli](https://github.com/HackingHackers/chatstack-cli)
+
