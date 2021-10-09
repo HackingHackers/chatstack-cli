@@ -13,7 +13,7 @@ namespace ChatStack
         {
 
             // Parse the arguments using Docopt.
-            var arguments = new Docopt().Apply(Usage, args, version: "ChatStack CLI v1.0", exit: true);
+            var arguments = new Docopt().Apply(Usage, args, version: "ChatStack CLI v1.0" + Environment.NewLine + "https://github.com/HackingHackers/chatstack-cli", exit: true);
 
             var client = await CheckArgumentsAsync(arguments);
 
