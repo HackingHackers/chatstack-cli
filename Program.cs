@@ -170,6 +170,9 @@ namespace ChatStack
                 // }
 
                 Console.WriteLine("Saved login state is not implemented yet. Please use 'chatstack login'.");
+                Console.WriteLine();
+                Console.WriteLine(Usage);
+                return null;
             }
 
             return client;
