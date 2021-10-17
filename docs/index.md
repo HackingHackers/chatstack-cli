@@ -8,6 +8,6 @@
 
 ## Download
 
-https://github.com/HackingHackers/chatstack-cli/releases/latest
+[https://github.com/HackingHackers/chatstack-cli/releases/latest](https://github.com/HackingHackers/chatstack-cli/releases/latest)
 
 
